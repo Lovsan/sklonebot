@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 const RoundStart = ("StartEnd.js");
 const client = new Discord.Client();
 const config = require("./config.json");
-//const prefix = "!*"; // set prefix in json
+//const prefix = "*"; // set prefix in json
 
 
 client.on("ready", () => {
