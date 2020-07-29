@@ -2,6 +2,7 @@
 Discord Bot for sklone.net
 
 running the project at https://my.fastcomet.com/
+_masterpass= ZK:::
 
 https://sklonebot.space
 http://sklonebot.space
