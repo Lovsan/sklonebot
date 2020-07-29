@@ -11,18 +11,21 @@ http://sklonebot.space/sklonebotv1 - the bot runs here at /sklonebot at root fol
 ## TODO
 
 1. 
- /modules/commands
- /modules/help.js # EMBED
- /modules/commands.js # EMBED 
- /modules/about.js
- /modules/roundInfo.js
- /modules/insults.js :P
+ - /modules/commands
+ - /modules/help.js # EMBED
+ - /modules/commands.js # EMBED 
+ - /modules/about.js
+ - /modules/roundInfo.js
+ - /modules/insults.js :P
  
  2. which modules are needed ?
  
-@require
-
-fs, express,fetch,json,discord,http
+- fs
+- express
+- fetch 
+- json
+- discord
+- http
 
 3.
 
